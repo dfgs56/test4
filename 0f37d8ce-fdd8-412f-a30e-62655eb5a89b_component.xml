@@ -35,10 +35,10 @@
           <chunks count="1">
             <chunk name="Branch" index="0">
               <items count="2">
-                <item name="Count" type_name="gh_int32" type_code="3">5</item>
+                <item name="Count" type_name="gh_int32" type_code="3">9</item>
                 <item name="Path" type_name="gh_string" type_code="10">{0}</item>
               </items>
-              <chunks count="5">
+              <chunks count="9">
                 <chunk name="Item" index="0">
                   <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
                   <chunks count="1">
@@ -101,6 +101,62 @@
                     <chunk name="ReferenceData">
                       <items count="5">
                         <item name="RefID" type_name="gh_guid" type_code="9">22e14859-ea5a-4102-b461-d02b40194ec7</item>
+                        <item name="RefIndex" type_name="gh_int32" type_code="3">-1</item>
+                        <item name="RefParam" index="0" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefParam" index="1" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefType" type_name="gh_string" type_code="10">point_object</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+                <chunk name="Item" index="5">
+                  <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
+                  <chunks count="1">
+                    <chunk name="ReferenceData">
+                      <items count="5">
+                        <item name="RefID" type_name="gh_guid" type_code="9">84d16e23-61ad-4aee-9136-a386cde49073</item>
+                        <item name="RefIndex" type_name="gh_int32" type_code="3">-1</item>
+                        <item name="RefParam" index="0" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefParam" index="1" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefType" type_name="gh_string" type_code="10">point_object</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+                <chunk name="Item" index="6">
+                  <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
+                  <chunks count="1">
+                    <chunk name="ReferenceData">
+                      <items count="5">
+                        <item name="RefID" type_name="gh_guid" type_code="9">276ecd06-4a5f-4220-8426-dffdbcc2f67c</item>
+                        <item name="RefIndex" type_name="gh_int32" type_code="3">-1</item>
+                        <item name="RefParam" index="0" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefParam" index="1" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefType" type_name="gh_string" type_code="10">point_object</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+                <chunk name="Item" index="7">
+                  <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
+                  <chunks count="1">
+                    <chunk name="ReferenceData">
+                      <items count="5">
+                        <item name="RefID" type_name="gh_guid" type_code="9">92bd7721-a183-45ec-8940-3285584d7daf</item>
+                        <item name="RefIndex" type_name="gh_int32" type_code="3">-1</item>
+                        <item name="RefParam" index="0" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefParam" index="1" type_name="gh_double" type_code="6">0</item>
+                        <item name="RefType" type_name="gh_string" type_code="10">point_object</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+                <chunk name="Item" index="8">
+                  <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
+                  <chunks count="1">
+                    <chunk name="ReferenceData">
+                      <items count="5">
+                        <item name="RefID" type_name="gh_guid" type_code="9">9b519fba-5ac2-4ef1-aa90-fff31c75f456</item>
                         <item name="RefIndex" type_name="gh_int32" type_code="3">-1</item>
                         <item name="RefParam" index="0" type_name="gh_double" type_code="6">0</item>
                         <item name="RefParam" index="1" type_name="gh_double" type_code="6">0</item>
