@@ -5,13 +5,14 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="6">
+      <items count="7">
         <item name="Description" type_name="gh_string" type_code="10">Contains a collection of line segments</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">abf72cc5-f913-4a0e-8b33-fc54ad45f291</item>
         <item name="Name" type_name="gh_string" type_code="10">Line</item>
         <item name="NickName" type_name="gh_string" type_code="10">Line</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+        <item name="Source" index="0" type_name="gh_guid" type_code="9">4af95c9b-d343-4637-8f78-fd5b6b2a7f3f</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
       </items>
       <chunks count="1">
         <chunk name="Attributes">
